@@ -5,8 +5,10 @@ Hi, welcome to my README! My name is Jacob and I love OSS. While I'm not the mos
 ### Products
 
 Projects intended for consumption by the masses
+- [MTG Wizard](https://github.com/JacobHearst/MTGWizard)
 - [CardClip](https://github.com/JacobHearst/CardClip)
 - [GroupMe-ScryfallBot](https://github.com/JacobHearst/GroupMe-ScryfallBot)
+- [Metro Transit Helper](https://github.com/JacobHearst/MetroTransitHelper)
 
 ### Libraries
 
