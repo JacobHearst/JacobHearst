@@ -16,7 +16,7 @@ Projects intended to be used by other developers in their own projects
 - [ScryfallKit](https://github.com/JacobHearst/ScryfallKit)
 
 ### Graveyard
-Projects that I don't have the heart to archive but have little to no intention of coming back to
+Unfinished projects that I have little to no intention of coming back to but am proud of nonetheless
 
 - Find a Climb
   - Three repositories that comprise my own version of a search engine for [The Mountain Project](https://www.mountainproject.com/)
