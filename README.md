@@ -12,7 +12,6 @@ Projects intended for consumption by the masses
 ### Libraries
 
 Projects intended to be used by other developers in their own projects
-- [MetroTransitKit](https://github.com/JacobHearst/MetroTransitKit)
 - [ScryfallKit](https://github.com/JacobHearst/ScryfallKit)
 
 ### Graveyard
